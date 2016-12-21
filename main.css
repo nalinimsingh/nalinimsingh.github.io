@@ -24,17 +24,25 @@
     width: 850px;
     background: #444;
     position: relative; /* so social list can be positioned relative to the footer*/
-    text-align: center; /* center the copyright text */
+    text-align: center;
+}
+#horizontal-list{
+    list-style-position: inside;
+    padding-left:0;
 }
 .footer-social {
     text-align: center;
 }
 .footer-social li {
     display: inline;
+    margin-right: 7px;
+}
+li:last-child{
+    margin-right: 0px;
 }
 .footer-info {
     text-align: center;
 }
 .footer-info li {
-    display: inline-block;
+    display: inline;
 }
