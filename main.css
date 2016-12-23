@@ -3,6 +3,9 @@
     margin: 0 auto;
 }
 
+.navbar{
+    z-index: 999;
+}
 .navbar-nav{
     margin-right: 0;
 }
@@ -30,11 +33,11 @@
 
 #footer {
     margin: 0px auto;
-    padding-bottom: 60px;
+    padding-bottom: 0px;
     width: 850px;
-    background: #444;
     position: relative; /* so social list can be positioned relative to the footer*/
     text-align: center;
+    z-index:998;
 }
 #horizontal-list{
     list-style-position: inside;
@@ -42,6 +45,9 @@
 }
 .footer-social {
     text-align: center;
+    background-color:#FFFFFF;
+    padding-bottom: 5px;
+    padding-top: 20px;
 }
 .footer-social li {
     display: inline;
