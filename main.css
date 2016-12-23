@@ -5,20 +5,35 @@
 
 .navbar{
     z-index: 999;
-    background-color:#FFFFFF;
+    background-color: #FFFFFF;
 }
 .navbar-right{
-    margin-top:0px;
+    margin-top: 0px;
+    padding-right: 15px;
 }
 .navbar-nav{
-    padding-top:0px;
+    padding-top: 0px;
+    list-style-position: inside;
+    padding-left:0;
+}
+.navbar-nav li{
+    margin-right: 0px;
+}
+li:last-child{
+    margin-right: 0px;
+}
+
+.profile {
+  position: absolute;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 #nametag {
     text-transform:capitalize;
     font-variant:small-caps;
     font-weight:bold;
-    font-size:26px;
+    font-size:24px;
     letter-spacing: 2px;
     text-align: center;
     display: block;
@@ -27,42 +42,4 @@
 #headshot img {
     width: 100%;
     box-shadow: 0px 0px 20px rgba(34,34,34,0.6);
-}
-
-.profile {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-#footer {
-    margin: 0px auto;
-    padding-bottom: 0px;
-    width: 850px;
-    position: relative; /* so social list can be positioned relative to the footer*/
-    text-align: center;
-    z-index:998;
-}
-#horizontal-list{
-    list-style-position: inside;
-    padding-left:0;
-}
-.footer-social {
-    text-align: center;
-    background-color:#FFFFFF;
-    padding-bottom: 5px;
-    padding-top: 20px;
-}
-.footer-social li {
-    display: inline;
-    margin-right: 7px;
-}
-li:last-child{
-    margin-right: 0px;
-}
-.footer-info {
-    text-align: center;
-}
-.footer-info li {
-    display: inline;
 }
