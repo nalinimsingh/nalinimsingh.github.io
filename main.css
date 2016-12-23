@@ -5,9 +5,13 @@
 
 .navbar{
     z-index: 999;
+    background-color:#FFFFFF;
+}
+.navbar-right{
+    margin-top:0px;
 }
 .navbar-nav{
-    margin-right: 0;
+    padding-top:0px;
 }
 
 #nametag {
