@@ -8,11 +8,9 @@
     background-color: #FFFFFF;
 }
 .navbar-right{
-    margin-top: 0px;
     padding-right: 0px;
 }
 .navbar-nav{
-    padding-top: 0px;
     list-style-position: inside;
     padding-left:0;
 }
@@ -64,3 +62,22 @@ li:last-child{
   margin-right: 10px;
 }
 .profile-details { display: table-cell; vertical-align: top; }
+
+footer{
+    position: fixed;
+    width: 100%;
+    background: red;
+    height: 70px;
+    bottom: 0;
+    z-index: 6;
+}
+footer .wrap{
+    margin: 10px auto;
+
+}
+
+.social {
+    width: 250px;
+    float: none;
+    margin: 0 auto;
+}
