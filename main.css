@@ -81,3 +81,7 @@ footer .wrap{
     float: none;
     margin: 0 auto;
 }
+
+.reading-list li{
+  margin: 10px 0;
+}
