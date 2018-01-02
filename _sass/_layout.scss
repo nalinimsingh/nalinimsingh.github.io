@@ -2,8 +2,8 @@ body {
 	margin: 0;
 	color: $font-color;
 	font-family: $font-style;
-	font-size: 1.1em;
-	line-height: 1.6;
+	font-size: 0.9em;
+	line-height: 1.5;
 	-webkit-font-smoothing: antialiased;
 }
 h1,
@@ -12,7 +12,6 @@ h3 {
 	font-weight: 600;
 	color: $heading-font-color;
 	font-family: $heading-font;
-	line-height: 1.5;
 }
 h1 {
 	color: $main;
@@ -24,7 +23,11 @@ h1 {
 	}
 }
 h2 {
-	font-size: 2em;
+	font-size: 1.5em;
+	line-height: 1.5;
+}
+h3 {
+	font-size: 1em;
 }
 a,
 a:visited {
@@ -51,9 +54,16 @@ main {
 	max-width: $content-width;
 	margin: 0 auto;
 }
+article {
+	display: inline-block
+}
 .container {
 	max-width: $content-width;
 	margin: 0 auto;
+}
+.profile {
+	display: inline;
+	max-width: 200px;
 }
 /* Navbar */
 nav {
@@ -106,5 +116,20 @@ nav {
 			display: table;
 			clear: both;
 		}
+	}
+}
+/* Summaries */
+summary {
+	font-weight: 600;
+	color: $heading-font-color;
+	font-family: $heading-font;
+	line-height: 1.75;
+	outline: none;
+	font-size: 1.1em;
+}
+.fulltext {
+	margin-left: 30px;
+	p {
+		padding: 0px 10px;
 	}
 }
