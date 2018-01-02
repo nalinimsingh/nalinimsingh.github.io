@@ -7,7 +7,7 @@
 			<div class="links">
 				<ul class="navbar-ul">
 					{% for x in site.data.links %}
-					<li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a></li>
+					<li class="alignable pull-right nav-list"><a href="{{ x.link }}"><i class="fa fa-{{ x.name }}"></i></a></li>
 					{% endfor %}
 				</ul>
 			</div>
