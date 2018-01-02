@@ -1,0 +1,11 @@
+- name: "Email"
+  link: "mailto:nmsingh@mit.edu"
+
+- name: "LinkedIn"
+  link: "https://linkedin.com/in/nalinimsingh"
+
+- name: "Github"
+  link: "https://github.com/nalinimsingh"
+
+- name: "Twitter"
+  link: "http://www.twitter.com/nalinimsingh"

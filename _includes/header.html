@@ -1,0 +1,16 @@
+<div class="container">
+	<nav>
+		<div class="navbar container">
+			<div class="title">
+				{{ site.title }}
+			</div>
+			<div class="links">
+				<ul class="navbar-ul">
+					{% for x in site.data.links %}
+					<li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+	</nav>
+</div>

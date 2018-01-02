@@ -1,0 +1,13 @@
+# Site Settings
+title: Nalini Singh
+email: nmsingh@mit.edu
+baseurl: ""
+twitter_username: nalinimsingh
+github_username: nalinimsingh
+# Build Settings
+sass:
+  sass_dir: _sass
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true

@@ -1,1 +1,3 @@
 *.docx
+_site/
+.sass-cache/
