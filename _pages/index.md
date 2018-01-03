@@ -22,7 +22,7 @@ _Paper to appear._
 Predicting Adverse Drug Reactions with Molecular Docking Scores
 </summary>
 <div class='fulltext' markdown="1">
-Adverse Drug Reactions (ADRs) produce an estimated 700,000 ER visits each year in the United States. We developed models that use only structural drug information to predict ADRs, enabling ADR identification _before_ experimental testing in patients.   
+Adverse Drug Reactions (ADRs) produce an estimated 700,000 ER visits each year in the United States. We developed models that use only structural drug information to predict ADRs, enabling ADR identification before experimental testing in patients.   
 _Paper to Appear._
 </div>
 </details>
