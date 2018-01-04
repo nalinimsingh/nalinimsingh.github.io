@@ -61,6 +61,12 @@ article {
 	max-width: $content-width;
 	margin: 0 auto;
 }
+.subcaption {
+	font-size: 0.75em;
+	line-height: 1.2;
+	margin: auto;
+	text-align: center;
+}
 /* Navbar */
 nav {
 	display: inline;
