@@ -61,10 +61,6 @@ article {
 	max-width: $content-width;
 	margin: 0 auto;
 }
-.profile {
-	display: inline;
-	max-width: 200px;
-}
 /* Navbar */
 nav {
 	display: inline;
@@ -131,5 +127,36 @@ summary {
 	margin-left: 30px;
 	p {
 		padding: 0px 10px;
+	}
+}
+/* Profile */
+.profile {
+	float: left;
+	max-width: 150px;
+	padding-top: 25px;
+}
+/* Gap Column */
+.column {
+	float: left;
+	min-width: 25px;
+}
+/* Main Text */
+.main-info {
+	min-width: 200px;
+	overflow: hidden;
+}
+
+/* Switch Layout for Smaller Screens */
+@media (max-width : 475px){
+	.profile {
+		display: block;
+		margin: auto;
+		float: none;
+	}
+	.column {
+		display: none;
+	}
+	.main-info {
+		float: left;
 	}
 }

@@ -1,3 +1,12 @@
+<div class='profile'>
+<img src='assets/singhnalini.jpg' height='150px'>
+</div>
+
+<div class='column'>
+&nbsp;
+</div>
+
+<div class='main-info' markdown="1">
 ## About
 I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp), working in the [Medical Vision Group](https://groups.csail.mit.edu/vision/medical-vision/) with [Polina Golland](http://people.csail.mit.edu/polina/). I'm interested in using signal processing and machine learning to better understand and act upon medical data. 
 
@@ -19,7 +28,7 @@ _Paper to appear._
 
 <details>
 <summary>
-Predicting Adverse Drug Reactions with Molecular Docking Scores
+Predicting Adverse Drug Reactions with Molecular Docking
 </summary>
 <div class='fulltext' markdown="1">
 Adverse Drug Reactions (ADRs) produce an estimated 700,000 ER visits each year in the United States. We developed models that use only structural drug information to predict ADRs, enabling ADR identification before experimental testing in patients.   
@@ -62,3 +71,4 @@ The Army is developing airdrop systems capable of delivering supplies to troops 
 [Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2017-3723){:target="_blank"}
 </div>
 </details>
+</div>
