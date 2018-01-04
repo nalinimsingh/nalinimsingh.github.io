@@ -62,12 +62,14 @@ article {
 	margin: 0 auto;
 }
 .subcaption {
+	color: $heading-font-color;
 	font-size: 0.75em;
 	line-height: 1.2;
 	margin: auto;
 	text-align: center;
 }
 .title {
+	color: $heading-font-color;
 	font-size: 1.1em;
 }
 /* Navbar */
@@ -131,6 +133,9 @@ summary {
 	line-height: 1.75;
 	outline: none;
 	font-size: 1.1em;
+}
+summary:hover {
+	cursor: pointer;
 }
 .fulltext {
 	margin-left: 30px;
