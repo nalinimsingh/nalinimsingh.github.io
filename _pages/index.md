@@ -28,8 +28,9 @@ I also co-founded [Blueprint](https://blueprint.hackmit.org) and served as the p
 Predicting Alarm Relevance in Neonatal Intensive Care Units
 </summary>
 <div class='fulltext' markdown="1">
-Bedside monitors alert clinicians of adverse events in Neonatal Intensive Care Unit (NICU) patients. However, high false alarm rates in these devices desensitize NICU staff to useful warnings. We developed classifiers that use physiologic waveform data to predict alarm relevance and could be used to silence unnecessary alarms.  
-_Paper to appear._
+Classifiers that use physiologic waveform data to predict bedside alarm relevance in neonatal intensive care units, suggesting a strategy for silencing unnecessary alarms. 
+<br>
+_Paper to Appear._
 </div>
 </details>
 
@@ -38,7 +39,8 @@ _Paper to appear._
 Predicting Adverse Drug Reactions with Molecular Docking
 </summary>
 <div class='fulltext' markdown="1">
-Adverse Drug Reactions (ADRs) produce an estimated 700,000 ER visits each year in the United States. We developed models that use only structural drug information to predict ADRs, enabling ADR identification before experimental testing in patients.   
+Models that use only structural drug information to predict Adverse Drug Reactions (ADRs), enabling ADR identification before experimental testing in patients. 
+<br>
 _Paper to Appear._
 </div>
 </details>
@@ -49,7 +51,7 @@ _Paper to Appear._
 Analyzing Acute Kidney Injury in Septic Intensive Care Patients
 </summary>
 <div class='fulltext' markdown="1">
-Acute Kidney Injury (AKI) is associated with increased mortality in septic patients. We performed a retrospective cohort study to analyze mean arterial blood pressure as a predictor of AKI.
+A retrospective cohort study to analyze the appropriateness of mean arterial blood pressure as a predictor of acute kidney injury.
 <br>
 [Code](https://github.com/nalinimsingh/HST.953-AKI-Prediction){:target="_blank"}
 </div>
@@ -60,7 +62,7 @@ Acute Kidney Injury (AKI) is associated with increased mortality in septic patie
 Designing Biomimetic Prosthesis Controllers for Walking
 </summary>
 <div class='fulltext' markdown="1">
-We designed and modeled a state space controller for prosthesis-aided walking based on motion capture data from animal experiment subjects. The resulting controller yielded gait parameters within 7% of biological values. 
+A state space biomimetic controller for prosthesis-aided walking, yielding modeled gait parameters similar to biological values.
 <br>
 **2nd Place Oral Presentation, EECSCon 2016**.
 <br>
@@ -73,7 +75,7 @@ We designed and modeled a state space controller for prosthesis-aided walking ba
 Localizing Parafoils in GPS-Denied Environments
 </summary>
 <div class='fulltext' markdown="1">
-The Army is developing airdrop systems capable of delivering supplies to troops in environments where GPS data is unavailable due to jamming, spoofing, or poor satellite visibility. We developed computer vision algorithms for parafoil localization and navigation that require only monocular camera imagery and inertial sensor data.
+Parafoil localization algorithms requiring only monocular camera imagery and inertial sensor data, enabling supply delivery to troops in GPS-denied environments.
 <br>
 [Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2017-3723){:target="_blank"}
 </div>
