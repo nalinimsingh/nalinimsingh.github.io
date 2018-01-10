@@ -51,7 +51,7 @@ _Paper to Appear._
 Analyzing Acute Kidney Injury in Septic Intensive Care Patients
 </summary>
 <div class='fulltext' markdown="1">
-A retrospective cohort study to analyze the appropriateness of mean arterial blood pressure as a predictor of acute kidney injury.
+A retrospective cohort study to analyze the appropriateness of mean arterial blood pressure as a predictor of acute kidney injury in septic patients.
 <br>
 [Code](https://github.com/nalinimsingh/HST.953-AKI-Prediction){:target="_blank"}
 </div>
