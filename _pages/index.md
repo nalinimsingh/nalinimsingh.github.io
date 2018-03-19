@@ -77,7 +77,7 @@ Localizing Parafoils in GPS-Denied Environments
 <div class='fulltext' markdown="1">
 Parafoil localization algorithms requiring only monocular camera imagery and inertial sensor data, enabling supply delivery to troops in GPS-denied environments.
 <br>
-[Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2017-3723){:target="_blank"}
+[Paper](https://arc.aiaa.org/doi/pdf/10.2514/6.2017-3723){:target="_blank"}
 </div>
 </details>
 </div>
