@@ -15,9 +15,11 @@ Cambridge, MA, 02139
 
 <div class='main-info' markdown="1">
 ## About
-I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp), working in the [Medical Vision Group](https://www.csail.mit.edu/research/medical-vision-group) with [Polina Golland](http://people.csail.mit.edu/polina/). I'm interested in using signal processing and machine learning to better understand and act upon medical data. 
+I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp). My primary research interest is in using techniques from statistical signal processing and machine learning to better understand medical data. 
 
-Previously, I did my undergrad in the [Electrical Engineering and Computer Science](http://www.eecs.mit.edu/) department at MIT. I've worked at [Google](https://www.google.com/about/), [IBM Research](http://www.research.ibm.com), and [Draper](http://www.draper.com/).
+To that end, I work in the [Medical Vision Group](https://www.csail.mit.edu/research/medical-vision-group) with [Polina Golland](http://people.csail.mit.edu/polina/). Currently, I'm also interning at the healthcare subdivision of [Google Brain](https://ai.google/research/teams/brain). 
+
+Previously, I did my undergrad in the [Electrical Engineering and Computer Science](http://www.eecs.mit.edu/) department at MIT and did research internships at [IBM Research](http://www.research.ibm.com) and [Draper](http://www.draper.com/).
 
 I also co-founded [Blueprint](https://blueprint.hackmit.org) and served as the president of [MIT HKN](https://hkn.mit.edu).
 
