@@ -21,7 +21,7 @@ To that end, I work in the [Medical Vision Group](https://www.csail.mit.edu/rese
 
 Previously, I did my undergrad in the [Electrical Engineering and Computer Science](http://www.eecs.mit.edu/) department at MIT and did research internships at [IBM Research](http://www.research.ibm.com) and [Draper](http://www.draper.com/).
 
-I also co-founded [Blueprint](https://blueprint.hackmit.org) and served as the president of [MIT HKN](https://hkn.mit.edu).
+I also started [Blueprint](https://blueprint.hackmit.org) and served as the president of [MIT HKN](https://hkn.mit.edu).
 
 ## Selected Projects
 
