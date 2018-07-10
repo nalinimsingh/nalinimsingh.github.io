@@ -43,13 +43,12 @@ Predicting Adverse Drug Reactions with Molecular Docking
 <div class='fulltext' markdown="1">
 Models that use only structural drug information to predict Adverse Drug Reactions (ADRs), enabling ADR identification before experimental testing in patients. 
 <br>
-_Paper to Appear._
+[Abstract](https://www.ncbi.nlm.nih.gov/pubmed/29792141) _(Ahead of Print)_
 </div>
 </details>
 
 <details>
 <summary>
-
 Analyzing Acute Kidney Injury in Septic Intensive Care Patients
 </summary>
 <div class='fulltext' markdown="1">
