@@ -17,7 +17,7 @@ Cambridge, MA, 02139
 ## About
 I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp). My primary research interest is in developing explainable statistical techniques that help clinicians interpret and act on medical data. 
 
-To that end, I work in the [Medical Vision Group](https://www.csail.mit.edu/research/medical-vision-group) with [Polina Golland](http://people.csail.mit.edu/polina/). Currently, I'm also interning at the healthcare subdivision of [Google Brain](https://ai.google/research/teams/brain). 
+To that end, I work in the [Medical Vision Group](https://www.csail.mit.edu/research/medical-vision-group) with [Polina Golland](http://people.csail.mit.edu/polina/). I'm also a student researcher in the medical subdivision of [Google Brain](https://ai.google/research/teams/brain). 
 
 Previously, I did my undergrad in the [Electrical Engineering and Computer Science](http://www.eecs.mit.edu/) department at MIT and did research internships at [IBM Research](http://www.research.ibm.com) and [Draper](http://www.draper.com/).
 
