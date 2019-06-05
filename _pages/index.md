@@ -63,11 +63,11 @@ A retrospective cohort study to analyze the appropriateness of mean arterial blo
 Designing Biomimetic Prosthesis Controllers for Walking
 </summary>
 <div class='fulltext' markdown="1">
-A state space biomimetic controller for prosthesis-aided walking, yielding modeled gait parameters similar to biological values.
+Characterizing quadruped locomotion and developing a biomimetic controller for prosthesis-aided walking, yielding modeled gait parameters similar to biological values.
 <br>
 **2nd Place Oral Presentation, EECSCon 2016**.
 <br>
-[Presentation](docs/prosthesis.pdf){:target="_blank"}
+[Paper](http://jeb.biologists.org/content/222/10/jeb198325) [Presentation](docs/prosthesis.pdf){:target="_blank"}
 </div>
 </details>
 
