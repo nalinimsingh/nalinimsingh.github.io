@@ -27,12 +27,12 @@ I also started [Blueprint](https://blueprint.hackmit.org) and served as the pres
 
 <details>
 <summary>
-Predicting Alarm Relevance in Neonatal Intensive Care Units
+Human & Model Explanations for Skin Condition Classification
 </summary>
 <div class='fulltext' markdown="1">
-Classifiers that use physiologic waveform data to predict bedside alarm relevance in neonatal intensive care units, suggesting a strategy for silencing unnecessary alarms. 
+A comparison between skin disease classification model explanations and human-identified regions of interest, in order to identify unintuitive classifications.
 <br>
-_Paper to Appear._
+[Paper](http://openaccess.thecvf.com/content_CVPRW_2020/html/w42/Singh_Agreement_Between_Saliency_Maps_and_Human-Labeled_Regions_of_Interest_Applications_CVPRW_2020_paper.html) [Talk](https://www.youtube.com/watch?v=YUJf-RnNkDA&feature=youtu.be)
 </div>
 </details>
 
@@ -49,17 +49,6 @@ Models that use only structural drug information to predict Adverse Drug Reactio
 
 <details>
 <summary>
-Analyzing Acute Kidney Injury in Septic Intensive Care Patients
-</summary>
-<div class='fulltext' markdown="1">
-A retrospective cohort study to analyze the appropriateness of mean arterial blood pressure as a predictor of acute kidney injury in septic patients.
-<br>
-[Code](https://github.com/nalinimsingh/HST.953-AKI-Prediction){:target="_blank"}
-</div>
-</details>
-
-<details>
-<summary>
 Designing Biomimetic Prosthesis Controllers for Walking
 </summary>
 <div class='fulltext' markdown="1">
@@ -67,7 +56,7 @@ Characterizing quadruped locomotion and developing a biomimetic controller for p
 <br>
 **2nd Place Oral Presentation, EECSCon 2016**.
 <br>
-[Paper](http://jeb.biologists.org/content/222/10/jeb198325) [Presentation](docs/prosthesis.pdf){:target="_blank"}
+[Paper](http://jeb.biologists.org/content/222/10/jeb198325) [Slides](docs/prosthesis.pdf){:target="_blank"}
 </div>
 </details>
 
