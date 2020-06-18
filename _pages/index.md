@@ -32,7 +32,7 @@ Human & Model Explanations for Skin Condition Classification
 <div class='fulltext' markdown="1">
 A comparison between skin disease classification model explanations and human-identified regions of interest, in order to identify unintuitive classifications.
 <br>
-[Paper](http://openaccess.thecvf.com/content_CVPRW_2020/html/w42/Singh_Agreement_Between_Saliency_Maps_and_Human-Labeled_Regions_of_Interest_Applications_CVPRW_2020_paper.html) [Talk](https://www.youtube.com/watch?v=YUJf-RnNkDA&feature=youtu.be)
+[Paper](http://openaccess.thecvf.com/content_CVPRW_2020/html/w42/Singh_Agreement_Between_Saliency_Maps_and_Human-Labeled_Regions_of_Interest_Applications_CVPRW_2020_paper.html){:target="_blank"} [Talk](https://www.youtube.com/watch?v=YUJf-RnNkDA&feature=youtu.be){:target="_blank"}
 </div>
 </details>
 
@@ -43,7 +43,7 @@ Predicting Adverse Drug Reactions with Molecular Docking
 <div class='fulltext' markdown="1">
 Models that use only structural drug information to predict Adverse Drug Reactions (ADRs), enabling ADR identification before experimental testing in patients. 
 <br>
-[Paper](http://www.eurekaselect.com/162428/article)
+[Paper](http://www.eurekaselect.com/162428/article){:target="_blank"}
 </div>
 </details>
 
@@ -56,7 +56,7 @@ Characterizing quadruped locomotion and developing a biomimetic controller for p
 <br>
 **2nd Place Oral Presentation, EECSCon 2016**.
 <br>
-[Paper](http://jeb.biologists.org/content/222/10/jeb198325) [Slides](docs/prosthesis.pdf){:target="_blank"}
+[Paper](http://jeb.biologists.org/content/222/10/jeb198325){:target="_blank"} [Slides](docs/prosthesis.pdf){:target="_blank"}
 </div>
 </details>
 
