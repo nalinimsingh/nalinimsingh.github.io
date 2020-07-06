@@ -19,7 +19,7 @@ I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology
 
 My primary research interests are in machine learning, computer vision, and signal processing applied to medical data, especially medical image reconstruction and analysis.
 
-Previously, I did my undergrad in the [Electrical Engineering and Computer Science](http://www.eecs.mit.edu/) department at MIT and did research internships at [Google Brain/Health](http://health.google), [IBM Research](http://www.research.ibm.com), and [Draper](http://www.draper.com/).
+Previously, I did my undergrad in [Electrical Engineering and Computer Science](http://www.eecs.mit.edu/) at MIT and did research internships at [Google Brain/Health](http://health.google), [IBM Research](http://www.research.ibm.com), and [Draper](http://www.draper.com/).
 
 I also started [Blueprint](https://blueprint.hackmit.org) and served as the president of [MIT HKN](https://hkn.mit.edu).
 
