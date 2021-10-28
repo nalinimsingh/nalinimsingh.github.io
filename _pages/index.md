@@ -23,7 +23,7 @@ My work is supported by the [NIH Neuroimaging Training Program](https://hst.mit.
 
 Previously, I did my undergrad in [Electrical Engineering and Computer Science](http://www.eecs.mit.edu/) at MIT and did research internships at [Google Brain/Health](http://health.google), [IBM Research](http://www.research.ibm.com), and [Draper](http://www.draper.com/).
 
-I also started [Blueprint](https://blueprint.hackmit.org) and served as the president of [MIT HKN](https://hkn.mit.edu).
+I also run [MAAP](https://maap.mit.edu), an application assistance program for students applying to the HST PhD program. If you have questions about that process, that site is the best place to sign up for help.
 
 ## Selected Projects
 <details>
