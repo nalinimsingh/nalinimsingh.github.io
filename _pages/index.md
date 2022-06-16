@@ -1,7 +1,7 @@
 <div class='profile'>
 <img src='assets/singhnalini.jpg' height='150px'>
 <div class='subcaption'>
-<b>PhD Student, MIT CSAIL</b>
+PhD Student at MIT CSAIL
 <br>
 32 Vassar St, 32D-474
 <br>
