@@ -31,6 +31,6 @@ Using test-time model-based optimization on neural network outputs to produce fa
 **Joint Frequency and Image Space Learning for MRI Reconstruction and Analysis** <br>
 A general purpose neural network layer that combines frequency and image space features for correcting artifacts in Fourier imaging.
 <br>
-[Paper](https://www.melba-journal.org/pdf/2022:018.pdf) [Code](https://github.com/nalinimsingh/interlacer)
+[Paper](https://www.melba-journal.org/pdf/2022:018.pdf) [Code](https://github.com/nalinimsingh/interlacer) [Video](https://www.youtube.com/watch?v=9dNspg8bIcM)
 
 </div>
