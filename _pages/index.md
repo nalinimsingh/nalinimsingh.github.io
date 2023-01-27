@@ -9,47 +9,37 @@
 </div>
 
 <div class='main-info' markdown="1">
-## About
-I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp). I work in the [Medical Vision Group](https://www.csail.mit.edu/research/medical-vision-group) with [Polina Golland](http://people.csail.mit.edu/polina/). Previously, I did my undergrad in [Electrical Engineering and Computer Science](http://www.eecs.mit.edu/) at MIT.
 
-My primary research interests are in machine learning, computer vision, and signal processing applied to medical data, especially medical image reconstruction and analysis. 
+## About
+**I am currently looking for postdoc and industry positions.**
+
+I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp), advised by [Polina Golland](http://people.csail.mit.edu/polina/). Previously, I did my undergrad in Electrical Engineering and Computer Science at MIT and interned at Google.
+
+I am interested in machine learning, computer vision, and inverse problems. My PhD focuses on medical image reconstruction, and I am broadly interested in any applications involving biology or physics-based modeling. 
 
 My work is supported by the [NIH Neuroimaging Training Program](https://hst.mit.edu/academic-programs/memp/neuroimaging-training-program), an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), and a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
 
-I also run the [MEMP Application Assistance Program](https://maap.mit.edu), to assist students applying to the HST PhD program. If you have questions about that process, that site is the best place to sign up for help.
-
 ## Selected Projects
+For full publication list, see [Google Scholar](https://scholar.google.com/citations?user=HayuQmIAAAAJ).
+
 <details>
 <summary>
-Joint Frequency and Image Space Learning for Fourier Imaging
+Data Consistent Deep Rigid MRI Motion Correction
 </summary>
 <div class='fulltext' markdown="1">
-A neural network layer that combines frequency- and image-space features for correcting artifacts in Fourier imaging.
+Using test-time model-based optimization on neural network outputs to produce fast, high quality, physics-consistent motion-corrected MRI reconstructions.
 <br>
-[Paper](https://arxiv.org/abs/2007.01441) [Code](https://github.com/nalinimsingh/interlacer)
+[Paper](https://arxiv.org/abs/2301.10365) [Code](https://github.com/nalinimsingh/neuroMoCo)
 </div>
 </details>
 
 <details>
 <summary>
-Human & Model Explanations for Skin Condition Classification
+Joint Frequency and Image Space Learning for MRI Reconstruction and Analysis
 </summary>
 <div class='fulltext' markdown="1">
-A comparison between skin disease classification model explanations and human-identified regions of interest, in order to identify unintuitive classifications.
+A general purpose neural network layer that combines frequency and image space features for correcting artifacts in Fourier imaging.
 <br>
-[Paper](http://openaccess.thecvf.com/content_CVPRW_2020/html/w42/Singh_Agreement_Between_Saliency_Maps_and_Human-Labeled_Regions_of_Interest_Applications_CVPRW_2020_paper.html){:target="_blank"} [Talk](https://www.youtube.com/watch?v=YUJf-RnNkDA&feature=youtu.be){:target="_blank"}
-</div>
-</details>
-
-<details>
-<summary>
-Designing Biomimetic Prosthesis Controllers for Walking
-</summary>
-<div class='fulltext' markdown="1">
-Characterizing quadruped locomotion and developing a biomimetic controller for prosthesis-aided walking, yielding modeled gait parameters similar to biological values.
-<br>
-**2nd Place Oral Presentation, EECSCon 2016**.
-<br>
-[Paper](http://jeb.biologists.org/content/222/10/jeb198325){:target="_blank"} [Slides](docs/prosthesis.pdf){:target="_blank"}
+[Paper](https://www.melba-journal.org/pdf/2022:018.pdf) [Code](https://github.com/nalinimsingh/interlacer)
 </div>
 </details>
