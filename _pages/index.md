@@ -1,5 +1,5 @@
 <div class='profile'>
-<img src='assets/singhnalini.jpg' height='150px'>
+<img src='assets/headshot_color.jpg' height='150px'>
 <div class='subcaption'>
 </div>
 </div>
