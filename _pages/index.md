@@ -26,7 +26,7 @@ For full publication list, see [Google Scholar](https://scholar.google.com/citat
 **Data Consistent Deep Rigid MRI Motion Correction** <br>
 Using test-time model-based optimization on neural network outputs to produce fast, high quality, physics-consistent motion-corrected MRI reconstructions.
 <br>
-*Medical Imaging with Deep Learning*, 2023 (to appear). <br>
+*Medical Imaging with Deep Learning*, 2023 (**Oral**). <br>
 [Paper](https://arxiv.org/abs/2301.10365) [Code](https://github.com/nalinimsingh/neuroMoCo)
 
 **Joint Frequency and Image Space Learning for MRI Reconstruction and Analysis** <br>
