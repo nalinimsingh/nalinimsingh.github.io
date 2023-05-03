@@ -11,8 +11,6 @@
 <div class='main-info' markdown="1">
 
 ## About
-**I am currently looking for postdoc and industry positions.** [[CV]](docs/Nalini_Singh_CV.pdf)
-
 I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp), advised by [Polina Golland](http://people.csail.mit.edu/polina/). Previously, I did my undergrad in Electrical Engineering and Computer Science at MIT and interned at Google.
 
 I am interested in machine learning, computer vision, and inverse problems. My PhD focuses on medical image reconstruction, and I am broadly interested in any applications involving biology or physics-based modeling. 
