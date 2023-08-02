@@ -11,9 +11,9 @@
 <div class='main-info' markdown="1">
 
 ## About
-I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp), advised by [Polina Golland](http://people.csail.mit.edu/polina/). Previously, I did my undergrad in Electrical Engineering and Computer Science at MIT and interned at Google.
+I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp), advised by [Polina Golland](http://people.csail.mit.edu/polina/). Previously, I did my undergrad in Electrical Engineering and Computer Science at MIT.
 
-I am interested in machine learning, computer vision, and inverse problems. My PhD focuses on medical image reconstruction, and I am broadly interested in any applications involving biology or physics-based modeling. 
+I am interested in machine learning, computer vision, and inverse problems. My PhD focuses on medical image reconstruction. 
 
 My work is supported by the [NIH Neuroimaging Training Program](https://hst.mit.edu/academic-programs/memp/neuroimaging-training-program), an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), and a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
 
