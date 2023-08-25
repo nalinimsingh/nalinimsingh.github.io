@@ -25,7 +25,7 @@ For full publication list, see [Google Scholar](https://scholar.google.com/citat
 Using test-time model-based optimization on neural network outputs to produce fast, high quality, physics-consistent motion-corrected MRI reconstructions.
 <br>
 *Medical Imaging with Deep Learning*, 2023 (**Oral; Best Oral Award**). <br>
-[Paper](https://arxiv.org/abs/2301.10365) [Code](https://github.com/nalinimsingh/neuroMoCo) [Video](https://www.youtube.com/live/S1z7zbSDmmI?feature=share&t=4334)
+[Paper](https://arxiv.org/abs/2301.10365) [Code](https://github.com/nalinimsingh/neuroMoCo) [Video](https://www.youtube.com/live/S1z7zbSDmmI?feature=share&t=4334) [MIT News](https://news.mit.edu/2023/mit-researchers-combine-deep-learning-physics-fix-motion-corrupted-MRI-scans-0817)
 
 **Joint Frequency and Image Space Learning for MRI Reconstruction and Analysis** <br>
 A general purpose neural network layer that combines frequency and image space features for correcting artifacts in Fourier imaging.
