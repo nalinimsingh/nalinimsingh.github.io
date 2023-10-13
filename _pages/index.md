@@ -11,9 +11,9 @@
 <div class='main-info' markdown="1">
 
 ## About
-I'm a PhD student at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp), advised by [Polina Golland](http://people.csail.mit.edu/polina/). Previously, I did my undergrad in Electrical Engineering and Computer Science at MIT.
+I will start a postdoc at UC Berkeley with [Laura Waller](http://www.laurawaller.com/) in November 2023. I work on applications of machine learning and computer vision to inverse problems in imaging. 
 
-I am interested in machine learning, computer vision, and inverse problems. My PhD focuses on medical image reconstruction. 
+Previously, I was a PhD student working on MRI reconstruction at the [Harvard-MIT Division of Health Sciences and Technology](https://hst.mit.edu/academics/memp), advised by [Polina Golland](http://people.csail.mit.edu/polina/). Before that, I did my undergrad in Electrical Engineering and Computer Science at MIT.
 
 My work is supported by the [NIH Neuroimaging Training Program](https://hst.mit.edu/academic-programs/memp/neuroimaging-training-program), an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), and a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
 
