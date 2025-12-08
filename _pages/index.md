@@ -19,6 +19,13 @@ Previously, I did my PhD at MIT with [Polina Golland](https://people.csail.mit.e
 ## Selected Projects
 For full publication list, see [Google Scholar](https://scholar.google.com/citations?user=HayuQmIAAAAJ).
 
+**A Gaussian Parameterization for Direct Atomic Structure Identification in Electron Tomography** <br>
+Reformulating atomic electron tomography to optimize Gaussian atoms instead of voxelgrids, improving reconstructions and directly identifying atomic structures.
+<br>
+*International Conference on Computational Photography*, 2025. <br>
+[Paper](https://ieeexplore.ieee.org/document/11143828) [Code](https://github.com/nalinimsingh/gaussian-atoms) [Video](https://youtu.be/7c1cRX8PeVQ?t=1850)
+
+
 **Data Consistent Deep Rigid MRI Motion Correction** <br>
 Using test-time model-based optimization on neural network outputs to produce fast, high quality, physics-consistent motion-corrected MRI reconstructions.
 <br>
