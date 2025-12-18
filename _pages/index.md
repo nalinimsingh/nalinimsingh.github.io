@@ -25,7 +25,7 @@ For full publication list, see [Google Scholar](https://scholar.google.com/citat
 Reformulating atomic electron tomography to optimize Gaussian atoms instead of voxelgrids, improving reconstructions and directly identifying atomic structures.
 <br>
 *International Conference on Computational Photography*, 2025. <br>
-[Paper](https://ieeexplore.ieee.org/document/11143828) [Code](https://github.com/nalinimsingh/gaussian-atoms) [Video](https://youtu.be/7c1cRX8PeVQ?t=1850)
+[Paper](https://arxiv.org/abs/2512.15034) [Code](https://github.com/nalinimsingh/gaussian-atoms) [Video](https://youtu.be/7c1cRX8PeVQ?t=1850)
 
 
 **Data Consistent Deep Rigid MRI Motion Correction** <br>
