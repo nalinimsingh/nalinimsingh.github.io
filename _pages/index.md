@@ -15,7 +15,7 @@ I am a postdoc at UC Berkeley with [Laura Waller](http://www.laurawaller.com/). 
 
 Previously, I did my PhD at MIT with [Polina Golland](https://people.csail.mit.edu/polina/), supported by the [NIH Neuroimaging Training Program](https://hst.mit.edu/academic-programs/memp/neuroimaging-training-program), an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), and a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
 
-A current CV as of 12/2025 is available [here](../docs/Nalini_Singh_CV.pdf).
+My CV as of 12/2025 is available [here](../docs/Nalini_Singh_CV.pdf).
 
 &nbsp;
 ## Selected Projects
