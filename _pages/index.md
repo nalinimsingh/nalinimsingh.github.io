@@ -11,7 +11,7 @@
 <div class='main-info' markdown="1">
 
 ## About
-I am a postdoc at UC Berkeley with [Laura Waller](http://www.laurawaller.com/). I work on applications of machine learning and computer vision to inverse problems in imaging. 
+I am a postdoc at UC Berkeley with [Laura Waller](http://www.laurawaller.com/). I develop machine learning and computer vision methods for inverse problems in imaging. 
 
 Previously, I did my PhD at MIT with [Polina Golland](https://people.csail.mit.edu/polina/), supported by the [NIH Neuroimaging Training Program](https://hst.mit.edu/academic-programs/memp/neuroimaging-training-program), an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), and a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
 
