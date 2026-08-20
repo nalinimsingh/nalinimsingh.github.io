@@ -11,11 +11,17 @@
 <div class='main-info' markdown="1">
 
 ## About
-I am a postdoc at UC Berkeley with [Laura Waller](http://www.laurawaller.com/). I develop machine learning and computer vision methods for inverse problems in imaging. 
+I develop machine learning and computer vision methods for inverse problems in imaging, with applications including MRI, CT, x-ray, and electron microscopy. 
 
-Previously, I did my PhD at MIT with [Polina Golland](https://people.csail.mit.edu/polina/), supported by the [NIH Neuroimaging Training Program](https://hst.mit.edu/academic-programs/memp/neuroimaging-training-program), an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/), and a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/).
+Much of my work has focused on two questions:
+<ol>
+  <li>Which data representations best model different imaging systems and subjects? </li>
+  <li>How can we image things that change while we are imaging them? </li>
+</ol>
 
-My CV as of 1/2026 is available [here](../docs/Nalini_Singh_CV.pdf).
+Currently, I am a postdoc at UC Berkeley with [Laura Waller](http://www.laurawaller.com/). Previously, I did my PhD at MIT with [Polina Golland](https://people.csail.mit.edu/polina/). 
+
+My CV as of 8/2026 is available [here](../docs/Nalini_Singh_CV.pdf).
 
 &nbsp;
 ## Selected Projects
@@ -31,7 +37,7 @@ Reformulating atomic electron tomography to optimize Gaussian atoms instead of v
 **Data Consistent Deep Rigid MRI Motion Correction** <br>
 Using test-time model-based optimization on neural network outputs to produce fast, high quality, physics-consistent motion-corrected MRI reconstructions.
 <br>
-*Medical Imaging with Deep Learning*, 2023 (**Oral; Best Oral Award**). <br>
+*Medical Imaging with Deep Learning*, 2023 (**Oral; Best Paper**). <br>
 [Paper](https://arxiv.org/abs/2301.10365) [Code](https://github.com/nalinimsingh/neuroMoCo) [Video](https://www.youtube.com/live/S1z7zbSDmmI?feature=share&t=4334) [MIT News](https://news.mit.edu/2023/mit-researchers-combine-deep-learning-physics-fix-motion-corrupted-MRI-scans-0817)
 
 **Joint Frequency and Image Space Learning for MRI Reconstruction and Analysis** <br>
